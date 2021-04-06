@@ -1,0 +1,45 @@
+body{
+text-align: center;
+}
+.line{
+  background-color:#212121;
+  height:6px;
+  width:500px;
+  margin:8px auto;
+}
+.lines{
+  height:6px;
+  width:300px;
+  margin:8px auto;
+  background-color:#212121;
+}
+.welcome{
+  background-color:#F50057;
+}
+.work{
+  background-color:#00E676;
+}
+h1{
+  color:#4A148C;
+  Font-size:30px;
+  font-family:'Merriweather', serif;
+}
+#img1{
+ height:250px;
+  width:400px;
+  border-radius:10px;
+}
+#chart{
+  width:500px;
+  height:400px;
+  border-radius:20px;
+}
+#bible{
+  width:400px;
+  height:400px;
+  border-radius:10px;
+}
+#harrypotter{
+  width:400px;
+  height:400px;
+}
